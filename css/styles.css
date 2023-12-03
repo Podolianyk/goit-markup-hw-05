@@ -539,8 +539,6 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  width: 100%;
-  margin-top: 72px;
   margin-bottom: 16px;
 }
 .review-form-field-wrapper {
@@ -678,7 +676,6 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  margin-bottom: 24px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .review-submit-btn:hover,
